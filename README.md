@@ -79,7 +79,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; 34</h4>
+<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/financy?style=flat-square" /></h4>
 Open-source, self-hostable finance tracking for individuals, families, and small businesses.<br><br>
 <img src="https://img.shields.io/github/languages/top/spy4x/financy?style=flat-square" />
 </td>
@@ -139,9 +139,9 @@ Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated 
 ## `// latest posts`
 
 <!-- BLOG:START -->
-- [#6 How ChatGPT Can Help You Design System Architecture](https://antonshubin.com/blog/how-chatgpt-can-help-you-design-system-architecture) — *18 Apr 2023*
-- [#5 Setting Up Your Own CI/CD Server with Drone CI](https://antonshubin.com/blog/setting-up-your-own-ci-cd-server-with-drone-ci) — *12 Feb 2023*
-- [#3 Dev Tricks: The Importance of Code Formatting with Prettier](https://antonshubin.com/blog/the-importance-of-code-formatting-with-prettier) — *21 Dec 2022*
+- [#6 How ChatGPT Can Help You Design System Architecture](https://antonshubin.com/blog/how-chatgpt-can-help-you-design-system-architecture)
+- [#5 Setting Up Your Own CI/CD Server with Drone CI](https://antonshubin.com/blog/setting-up-your-own-ci-cd-server-with-drone-ci)
+- [#3 Dev Tricks: The Importance of Code Formatting with Prettier](https://antonshubin.com/blog/the-importance-of-code-formatting-with-prettier)
 <!-- BLOG:END -->
 
 <div align="right"><a href="https://antonshubin.com/blog">All posts →</a></div>
