@@ -8,15 +8,22 @@
 
 **Lead Web Developer · Software Architect**
 
-15+ years · MSc Computer Science · Neatsoft Pte Ltd · Singapore
+15+ years · MSc Computer Science · CEO @ Neatsoft dev boutique · Singapore · GMT+8 · flexible overlap
 
 [![Available for Hire](https://img.shields.io/badge/Available_for_Hire-3fb950?style=for-the-badge&logoColor=white)](mailto:anton@neatsoft.dev)
 
 [![Email](https://img.shields.io/badge/anton@neatsoft.dev-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:anton@neatsoft.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-shubin/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
 [![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
 [![Neatsoft](https://img.shields.io/badge/neatsoft.dev-30363d?style=flat-square&logoColor=white)](https://neatsoft.dev)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
+
+<br>
+
+*7,400+ hrs delivered · 100% Job Success · Expert Vetted · Top 1% on Upwork*
+
+*"One of the best developers I've worked with. Immediate impact from day one."* — Peter Visser, Tech Lead
 
 </div>
 
@@ -65,7 +72,7 @@
 
 **Workflow & OS**
 
-![OpenCode](https://img.shields.io/badge/OpenCode.ai-58a6ff?style=flat-square&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode.ai-58a6ff?style=flat-square&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora_Linux-294172?style=flat-square&logo=fedora&logoColor=white)
 
@@ -75,13 +82,26 @@
 
 ---
 
+## `// principles`
+
+> *"Make it right, even if it's harder."*
+
+- **Recent tech** over legacy incumbents when risk/reward is justified
+- **Open-source & self-hostable** over SaaS lock-in
+- **Lightweight, composable** systems over bloated all-in-one platforms
+- **Linux everywhere** — Fedora primary, reproducible server environments
+- **TypeScript-first** — strong typing, no implicit any
+- **Architecture before abstraction** — design for change, not just for today
+
+---
+
 ## `// open source`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/financy?style=flat-square" /></h4>
-Open-source, self-hostable finance tracking for individuals, families, and small businesses.<br><br>
+Open-source, self-hostable finance tracking for individuals, families, and small businesses. Sole author · ongoing.<br><br>
 <img src="https://img.shields.io/github/languages/top/spy4x/financy?style=flat-square" />
 </td>
 <td width="50%" valign="top">
@@ -149,20 +169,7 @@ Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated 
 
 ---
 
-## `// principles`
-
-> *"Make it right, even if it's harder."*
-
-- **Recent tech** over legacy incumbents when risk/reward is justified
-- **Open-source & self-hostable** over SaaS lock-in
-- **Lightweight, composable** systems over bloated all-in-one platforms
-- **Linux everywhere** — Fedora primary, reproducible server environments
-- **TypeScript-first** — strong typing, no implicit any
-- **Architecture before abstraction** — design for change, not just for today
-
----
-
-## `// open to engagements`
+## `// hire me`
 
 Looking for a lead developer who delivers **architecture**, not just code?
 
@@ -177,6 +184,7 @@ Looking for a lead developer who delivers **architecture**, not just code?
 | Platform | Link |
 |---|---|
 | 📧 Email (direct) | [anton@neatsoft.dev](mailto:anton@neatsoft.dev) |
+| 🔗 LinkedIn | [linkedin.com/in/anton-shubin](https://www.linkedin.com/in/anton-shubin/) |
 | 💼 Upwork | [upwork.com/freelancers/ashubin](https://www.upwork.com/freelancers/ashubin) |
 | 📺 YouTube | [youtube.com/@anton-shubin](https://www.youtube.com/@anton-shubin) |
 | 🌐 Personal Site | [antonshubin.com](https://antonshubin.com) |
