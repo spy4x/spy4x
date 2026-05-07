@@ -48,8 +48,8 @@
 
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Docker](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -84,39 +84,39 @@
 
 <table>
 <tr>
-<td>
-<a href="https://github.com/spy4x/seed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=seed&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/seed">seed</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/seed?style=flat-square" /></h4>
+Full-stack startup monorepo template. Build your next idea with best practices from day 1.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/seed?style=flat-square" />
 </td>
-<td>
-<a href="https://github.com/spy4x/financy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=financy&theme=github_dark&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/spy4x/sage">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=sage&theme=github_dark&hide_border=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/spy4x/homelab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=homelab&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/financy?style=flat-square" /></h4>
+Open-source, self-hostable finance tracking for individuals, families, and small businesses.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/financy?style=flat-square" />
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/spy4x/air-quality-sensor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=air-quality-sensor&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/sage">sage</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/sage?style=flat-square" /></h4>
+OpenAI / ChatGPT bot with custom integrations and function calling.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/sage?style=flat-square" />
 </td>
-<td>
-<a href="https://github.com/spy4x/northstar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=northstar&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/homelab">homelab</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/homelab?style=flat-square" /></h4>
+20+ self-hosted services on dedicated Hetzner hardware. Full compose stack, documented.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/homelab?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/air-quality-sensor">air-quality-sensor</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/air-quality-sensor?style=flat-square" /></h4>
+ESP32 24/7 air quality monitoring — PM2.5, CO2, temp, humidity → HomeAssistant.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/air-quality-sensor?style=flat-square" />
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/northstar">northstar</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/northstar?style=flat-square" /></h4>
+Minimalist life management PWA — life areas, yearly planning, positive nudges.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/northstar?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -198,5 +198,6 @@ Looking for a lead developer who delivers **architecture**, not just code?
 ---
 
 <div align="center">
-<sub>Anton Shubin · Neatsoft Pte Ltd · Singapore</sub>
+<sub>Anton Shubin · Neatsoft Pte Ltd · Singapore</sub><br>
+<a href="https://www.youtube.com/@anton-shubin">YouTube</a>
 </div>
