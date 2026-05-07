@@ -10,12 +10,13 @@
 
 15+ years · MSc Computer Science · Neatsoft Pte Ltd · Singapore
 
-[![Available for Hire](https://img.shields.io/badge/Available_for_Hire-3fb950?style=for-the-badge&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
+[![Available for Hire](https://img.shields.io/badge/Available_for_Hire-3fb950?style=for-the-badge&logoColor=white)](mailto:anton@neatsoft.dev)
 
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
+[![Email](https://img.shields.io/badge/anton@neatsoft.dev-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:anton@neatsoft.dev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
 [![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
 [![Neatsoft](https://img.shields.io/badge/neatsoft.dev-30363d?style=flat-square&logoColor=white)](https://neatsoft.dev)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
 
 </div>
 
@@ -175,6 +176,7 @@ Looking for a lead developer who delivers **architecture**, not just code?
 
 | Platform | Link |
 |---|---|
+| 📧 Email (direct) | [anton@neatsoft.dev](mailto:anton@neatsoft.dev) |
 | 💼 Upwork | [upwork.com/freelancers/ashubin](https://www.upwork.com/freelancers/ashubin) |
 | 📺 YouTube | [youtube.com/@anton-shubin](https://www.youtube.com/@anton-shubin) |
 | 🌐 Personal Site | [antonshubin.com](https://antonshubin.com) |
