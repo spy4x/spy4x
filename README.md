@@ -23,7 +23,7 @@
 
 *7,400+ hrs delivered · 100% Job Success · Expert Vetted · Top 1% on Upwork*
 
-*"One of the best developers I've worked with. Immediate impact from day one."* — Peter Visser, Tech Lead
+*"One of the best developers I've worked with. Immediate impact from day one."* — Peter Visser
 
 </div>
 
@@ -153,7 +153,7 @@ Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated 
 </tr>
 </table>
 
-<div align="right"><a href="https://www.youtube.com/@anton-shubin">▶ All videos →</a></div>
+<div align="right"><a href="https://www.youtube.com/@anton-shubin">All videos →</a></div>
 
 ---
 
