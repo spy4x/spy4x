@@ -51,10 +51,23 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/seed">seed</a> &nbsp; 34</h4>
-Full-stack startup monorepo template. Best practices from day 1.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/seed?style=flat-square" />
+<td valign="top">
+
+**Mobile & Desktop**
+
+![PWA](https://img.shields.io/badge/PWA--first-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Workflow & OS**
+
+![OpenCode](https://img.shields.io/badge/OpenCode.ai-58a6ff?style=flat-square&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora_Linux-294172?style=flat-square&logo=fedora&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -66,7 +79,7 @@ Full-stack startup monorepo template. Best practices from day 1.<br><br>
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; 7</h4>
+<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; 34</h4>
 Open-source, self-hostable finance tracking for individuals, families, and small businesses.<br><br>
 <img src="https://img.shields.io/github/languages/top/spy4x/financy?style=flat-square" />
 </td>
@@ -82,8 +95,15 @@ Open-source, self-hostable finance tracking for individuals, families, and small
 Fedora workstation and server configuration. KDE, terminal, Zsh, DevOps tooling.<br><br>
 <img src="https://img.shields.io/github/languages/top/spy4x/dotfiles?style=flat-square" />
 </td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/spy4x/seed">seed</a> &nbsp; 34 &nbsp; <img src="https://img.shields.io/badge/archived-grey?style=flat-square" /></h4>
+Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated project scaffold.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/seed?style=flat-square" />
+</td>
 </tr>
 </table>
+
+<div align="right"><a href="https://github.com/spy4x?tab=repositories">All repos →</a></div>
 
 ---
 
