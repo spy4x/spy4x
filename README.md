@@ -13,15 +13,9 @@
 [![Available for Hire](https://img.shields.io/badge/Available_for_Hire-3fb950?style=for-the-badge&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
 
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
-[![GitHub](https://img.shields.io/badge/spy4x-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spy4x)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
 [![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
 [![Neatsoft](https://img.shields.io/badge/neatsoft.dev-30363d?style=flat-square&logoColor=white)](https://neatsoft.dev)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=spy4x&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spy4x&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="150" />
 
 </div>
 
@@ -85,21 +79,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/seed">seed</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/seed?style=flat-square" /></h4>
-Full-stack startup monorepo template. Build your next idea with best practices from day 1.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/seed?style=flat-square" />
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/financy?style=flat-square" /></h4>
+<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; 34</h4>
 Open-source, self-hostable finance tracking for individuals, families, and small businesses.<br><br>
 <img src="https://img.shields.io/github/languages/top/spy4x/financy?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/sage">sage</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/sage?style=flat-square" /></h4>
-OpenAI / ChatGPT bot with custom integrations and function calling.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/sage?style=flat-square" />
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/spy4x/homelab">homelab</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/homelab?style=flat-square" /></h4>
@@ -109,14 +91,9 @@ OpenAI / ChatGPT bot with custom integrations and function calling.<br><br>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/air-quality-sensor">air-quality-sensor</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/air-quality-sensor?style=flat-square" /></h4>
-ESP32 24/7 air quality monitoring — PM2.5, CO2, temp, humidity → HomeAssistant.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/air-quality-sensor?style=flat-square" />
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/northstar">northstar</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/northstar?style=flat-square" /></h4>
-Minimalist life management PWA — life areas, yearly planning, positive nudges.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/northstar?style=flat-square" />
+<h4><a href="https://github.com/spy4x/dotfiles">dotfiles</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/dotfiles?style=flat-square" /></h4>
+Fedora workstation and server configuration. KDE, terminal, Zsh, DevOps tooling.<br><br>
+<img src="https://img.shields.io/github/languages/top/spy4x/dotfiles?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -192,12 +169,8 @@ Looking for a lead developer who delivers **architecture**, not just code?
 | Platform | Link |
 |---|---|
 | 💼 Upwork | [upwork.com/freelancers/ashubin](https://www.upwork.com/freelancers/ashubin) |
+| ▶ YouTube | [youtube.com/@anton-shubin](https://www.youtube.com/@anton-shubin) |
 | 🌐 Personal Site | [antonshubin.com](https://antonshubin.com) |
 | 🏢 Company | [neatsoft.dev](https://neatsoft.dev) |
 
 ---
-
-<div align="center">
-<sub>Anton Shubin · Neatsoft Pte Ltd · Singapore</sub><br>
-<a href="https://www.youtube.com/@anton-shubin">YouTube</a>
-</div>
