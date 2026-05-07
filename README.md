@@ -14,8 +14,14 @@
 
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
 [![GitHub](https://img.shields.io/badge/spy4x-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spy4x)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
 [![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
-[![Neatsoft](https://img.shields.io/badge/neatsoft.dev-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)](https://neatsoft.dev)
+[![Neatsoft](https://img.shields.io/badge/neatsoft.dev-30363d?style=flat-square&logoColor=white)](https://neatsoft.dev)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=spy4x&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spy4x&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="150" />
 
 </div>
 
@@ -74,14 +80,87 @@
 
 ---
 
-## `// selected work`
+## `// open source`
 
-| Project | Description | Tags |
-|---|---|---|
-| **▶ YouTube & Open Source** | Live-coding sessions and short-form dev tips. Modern web tech, real-world problem solving, opinionated tooling choices. | `live-coding` `open-source` `education` |
-| **🏢 Neatsoft Pte Ltd** | Singapore-registered software development company. Full-stack architecture and lead development for high-value client engagements. | `singapore` `full-stack` `architecture` |
-| **🎲 Truth or Dare** | iOS app rebuild — full mobile pipeline: TestFlight distribution, Firebase backend, Trello-managed backlog. | `ios` `capacitor` `firebase` `testflight` |
-| **🏠 Hardware & IoT Homelab** | Custom DIY 24/7 air-quality sensors (PM2.5, CO2, temp, humidity) via ESP32 → HomeAssistant. 20+ self-hosted services on dedicated Hetzner hardware. | `esp32` `homeassistant` `self-hosted` `iot` |
+<table>
+<tr>
+<td>
+<a href="https://github.com/spy4x/seed">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=seed&theme=github_dark&hide_border=true" />
+</a>
+</td>
+<td>
+<a href="https://github.com/spy4x/financy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=financy&theme=github_dark&hide_border=true" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/spy4x/sage">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=sage&theme=github_dark&hide_border=true" />
+</a>
+</td>
+<td>
+<a href="https://github.com/spy4x/homelab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=homelab&theme=github_dark&hide_border=true" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/spy4x/air-quality-sensor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=air-quality-sensor&theme=github_dark&hide_border=true" />
+</a>
+</td>
+<td>
+<a href="https://github.com/spy4x/northstar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spy4x&repo=northstar&theme=github_dark&hide_border=true" />
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+## `// latest videos`
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://youtu.be/SYGpufDLvQs">
+<img src="https://img.youtube.com/vi/SYGpufDLvQs/mqdefault.jpg" width="240" /><br>
+<sub><b>Building a chatbot with OpenAI API & custom integrations</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://youtu.be/9qzlQZH1V2E">
+<img src="https://img.youtube.com/vi/9qzlQZH1V2E/mqdefault.jpg" width="240" /><br>
+<sub><b>I think I've finally found a decent VSCode Database Client</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://youtu.be/q7DFYPXlh50">
+<img src="https://img.youtube.com/vi/q7DFYPXlh50/mqdefault.jpg" width="240" /><br>
+<sub><b>Copilot Chat — Any good?</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="https://www.youtube.com/@anton-shubin">▶ All videos →</a></div>
+
+---
+
+## `// latest posts`
+
+<!-- BLOG:START -->
+- [#6 How ChatGPT Can Help You Design System Architecture](https://antonshubin.com/blog/how-chatgpt-can-help-you-design-system-architecture) — *18 Apr 2023*
+- [#5 Setting Up Your Own CI/CD Server with Drone CI](https://antonshubin.com/blog/setting-up-your-own-ci-cd-server-with-drone-ci) — *12 Feb 2023*
+- [#3 Dev Tricks: The Importance of Code Formatting with Prettier](https://antonshubin.com/blog/the-importance-of-code-formatting-with-prettier) — *21 Dec 2022*
+<!-- BLOG:END -->
+
+<div align="right"><a href="https://antonshubin.com/blog">All posts →</a></div>
 
 ---
 
@@ -102,20 +181,17 @@
 
 Looking for a lead developer who delivers **architecture**, not just code?
 
-**Ideal engagement criteria:**
+**Ideal engagement:**
 
 - Clear, well-defined technical scope
-- High technical actuality — greenfield or modernisation projects preferred
+- High technical actuality — greenfield or modernisation preferred
 - Long-term, high-value over short-burst sprints
 - Respect for engineering decisions and technical autonomy
 - Founders/teams who understand software is an investment
 
-**Connect:**
-
 | Platform | Link |
 |---|---|
 | 💼 Upwork | [upwork.com/freelancers/ashubin](https://www.upwork.com/freelancers/ashubin) |
-| 💻 GitHub | [github.com/spy4x](https://github.com/spy4x) |
 | 🌐 Personal Site | [antonshubin.com](https://antonshubin.com) |
 | 🏢 Company | [neatsoft.dev](https://neatsoft.dev) |
 
