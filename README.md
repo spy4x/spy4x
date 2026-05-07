@@ -95,6 +95,21 @@
 
 ---
 
+## `// selected work`
+
+Client projects — Tech Lead on all.
+
+| Project | Description |
+|---|---|
+| [Corecircle](https://corecircle.com) | Fitness social network with ML-driven workout recommendations · Node.js · Nest.js · PostgreSQL · GCP |
+| [FoodRazor](https://foodrazor.com) · *acquired 2023* | Invoice digitization & supplier order automation for F&B industry · Angular · Node.js · GCP |
+| Connectful | Professional networking app with ML people-matching algorithm · Node.js · Nest.js · GCP |
+| GoPingu | Marketing team management with Trello-like UI & template marketplace · Angular · Node.js · Firebase |
+
+<div align="right"><a href="https://antonshubin.com/projects">All projects →</a></div>
+
+---
+
 ## `// open source`
 
 <table>
@@ -171,7 +186,7 @@ Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated 
 
 ## `// hire me`
 
-Looking for a lead developer who delivers **architecture**, not just code?
+I take full technical ownership — architecture, delivery, and production. You focus on the business.
 
 **Ideal engagement:**
 
