@@ -101,7 +101,7 @@ Client projects — Tech Lead on all.
 
 | Project | Description |
 |---|---|
-| [Corecircle](https://corecircle.com) | Fitness social network with ML-driven workout recommendations · Node.js · Nest.js · PostgreSQL · GCP |
+| [Corecircle](https://corecircle.com) · *acquired 2025* | Fitness social network with ML-driven workout recommendations · Node.js · Nest.js · PostgreSQL · GCP |
 | [FoodRazor](https://foodrazor.com) · *acquired 2023* | Invoice digitization & supplier order automation for F&B industry · Angular · Node.js · GCP |
 | Connectful | Professional networking app with ML people-matching algorithm · Node.js · Nest.js · GCP |
 | GoPingu | Marketing team management with Trello-like UI & template marketplace · Angular · Node.js · Firebase |
