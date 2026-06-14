@@ -1,97 +1,84 @@
 <div align="center">
 
 ```
-❯ whoami && cat availability.txt
+❯ whoami
 ```
 
 # Anton Shubin
 
-**Lead Web Developer · Software Architect**
+**Fractional CTO · Lead Architect**
 
-15+ years · MSc Computer Science · CEO @ Neatsoft dev boutique · Singapore · GMT+8 · flexible overlap
+15+ years · MSc Computer Science · CEO @ Neatsoft PTE LTD · Singapore · GMT+8
 
-[![Available for Hire](https://img.shields.io/badge/Available_for_Hire-3fb950?style=for-the-badge&logoColor=white)](mailto:anton@neatsoft.dev)
+[![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
 
 [![Email](https://img.shields.io/badge/anton@neatsoft.dev-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:anton@neatsoft.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-shubin/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
-[![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
+[![Schedule a call](https://img.shields.io/badge/Schedule_a_call-22c55e?style=flat-square&logo=googlecalendar&logoColor=white)](https://schedule.antonshubin.com/spy4x/30min)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spy4x)
 [![Neatsoft](https://img.shields.io/badge/neatsoft.dev-30363d?style=flat-square&logoColor=white)](https://neatsoft.dev)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ashubin)
 
 <br>
 
-*7,400+ hrs delivered · 100% Job Success · Expert Vetted · Top 1% on Upwork*
+**Expert-Vetted (Top 1%)** · **$395K+ Earned** · **80+ Projects** · **100% Job Success**
 
-*"One of the best developers I've worked with. Immediate impact from day one."* — Peter Visser
+<br>
 
 </div>
 
 ---
 
-## `// stack`
+## `// what i do`
 
-<table>
-<tr>
-<td valign="top" width="50%">
+> I take your SaaS from **napkin sketch to production** — without the dev-team drama.
 
-**Runtime & Frameworks**
+Autonomous technical partner for non-technical founders and C-suite executives. Fixed-price milestones. Zero-bloat architecture. Singapore-incorporated entity for enterprise trust.
 
-![Deno](https://img.shields.io/badge/Deno-464646?style=flat-square&logo=deno&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white)
-![Preact](https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white)
-![Fresh](https://img.shields.io/badge/Fresh_SSR-brightgreen?style=flat-square&logo=deno&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Infrastructure**
-
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Mobile & Desktop**
-
-![PWA](https://img.shields.io/badge/PWA--first-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-</td>
-<td valign="top">
-
-**Workflow & OS**
-
-![OpenCode](https://img.shields.io/badge/OpenCode.ai-58a6ff?style=flat-square&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora_Linux-294172?style=flat-square&logo=fedora&logoColor=white)
-
-</td>
-</tr>
-</table>
+**You've been burned by developers who:**
+- Overpromised and delivered a nightmare — I've fixed those messes
+- Ran up bloated $500/month AWS bills — I build on $40 Hetzner stacks
+- Owned the hours but not the outcome — I own the architecture, delivery, and production
 
 ---
 
-## `// principles`
+## `// how I deliver`
 
-> *"Make it right, even if it's harder."*
+| Term | What it means |
+|---|---|
+| **🛡️ 14-Day Alignment Guarantee** | Not a fit? Full refund within 2 weeks. No questions. |
+| **⏱️ Async-First Execution** | One weekly sync. Everything else via text/Loom. |
+| **🔑 Clean Handoff & IP** | You own 100% code and root keys from Day 1. |
+| **🎯 Fixed-Price Milestones** | Scope locked on funding. New ideas → V2 Backlog. |
+| **🔧 30-Day Code Warranty** | Bugs within scope? Patched free for 30 days. |
+| **💬 No Jargon Guarantee** | Every tech decision in plain English. |
 
-- **Recent tech** over legacy incumbents when risk/reward is justified
-- **Open-source & self-hostable** over SaaS lock-in
-- **Lightweight, composable** systems over bloated all-in-one platforms
-- **Linux everywhere** — Fedora primary, reproducible server environments
-- **TypeScript-first** — strong typing, no implicit any
-- **Architecture before abstraction** — design for change, not just for today
+---
+
+## `// services`
+
+| Service | Price | Delivery |
+|---|---|---|
+| **Free Architecture Audit** | Free | 48 hours |
+| **Technical Consultation** | $150 | 60 min |
+| **Zero-to-Production SaaS MVP** | From $8,000 | 21 days |
+| **Bulletproof Backend API & Infra** | From $4,000 | 14 days |
+| **Surgical AI Integration & LLM Pipelines** | From $4,000 | 14 days |
+| **Codebase Health Audit & Roadmap** | From $1,500 | 3 days |
+
+[View full catalog →](https://antonshubin.com/catalog)
+
+---
+
+## `// what clients say`
+
+> *"One of the best developers I've worked with. Immediate impact from day one."* — **Peter Visser**
+
+> *"Anton was a terrific partner in developing an MVP I've been dreaming of. Highly skilled, super resourceful, conscientious."* — **Startup Founder** · MVP Development · $4,000
+
+> *"He isn't one of the type of developers that just says 'sure, I can do that.' He's thoughtful and gives honest feedback. 12/10."* — **Product Owner** · Tech Lead · $55,749
+
+[All reviews on Upwork →](https://www.upwork.com/freelancers/ashubin)
 
 ---
 
@@ -99,80 +86,40 @@
 
 Client projects — Tech Lead on all.
 
-| Project | Description |
+| Project | Outcome |
 |---|---|
-| [Corecircle](https://corecircle.com) · *acquired 2025* | Fitness social network with ML-driven workout recommendations · Node.js · Nest.js · PostgreSQL · GCP |
-| [FoodRazor](https://foodrazor.com) · *acquired 2023* | Invoice digitization & supplier order automation for F&B industry · Angular · Node.js · GCP |
-| Connectful | Professional networking app with ML people-matching algorithm · Node.js · Nest.js · GCP |
-| GoPingu | Marketing team management with Trello-like UI & template marketplace · Angular · Node.js · Firebase |
+| [Corecircle](https://corecircle.com) · *acquired 2025* | Scaled to 200K+ online users |
+| [FoodRazor](https://foodrazor.com) · *acquired 2023* | Scaled across 10 countries, hundreds of restaurants |
+| [Connectful](https://connectful.com) | ML people-matching, rapid COVID-era growth |
+| [GoPingu](https://app.gopingu.com) | Real-time collaborative SaaS platform |
 
-<div align="right"><a href="https://antonshubin.com/projects">All projects →</a></div>
+[All projects →](https://antonshubin.com/projects)
 
 ---
 
 ## `// open source`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/financy">financy</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/financy?style=flat-square" /></h4>
-Open-source, self-hostable finance tracking for individuals, families, and small businesses. Sole author · ongoing.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/financy?style=flat-square" />
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/homelab">homelab</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/homelab?style=flat-square" /></h4>
-20+ self-hosted services on dedicated Hetzner hardware. Full compose stack, documented.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/homelab?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/dotfiles">dotfiles</a> &nbsp; <img src="https://img.shields.io/github/stars/spy4x/dotfiles?style=flat-square" /></h4>
-Fedora workstation and server configuration. KDE, terminal, Zsh, DevOps tooling.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/dotfiles?style=flat-square" />
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/spy4x/seed">seed</a> &nbsp; 34 &nbsp; <img src="https://img.shields.io/badge/archived-grey?style=flat-square" /></h4>
-Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated project scaffold.<br><br>
-<img src="https://img.shields.io/github/languages/top/spy4x/seed?style=flat-square" />
-</td>
-</tr>
-</table>
+| Project | Description |
+|---|---|
+| [financy](https://github.com/spy4x/financy) ![](https://img.shields.io/github/stars/spy4x/financy?style=flat-square) | Self-hostable finance tracking. Double-entry accounting, multi-currency, PWA. |
+| [homelab](https://github.com/spy4x/homelab) ![](https://img.shields.io/github/stars/spy4x/homelab?style=flat-square) | 20+ services on a single $50/month Hetzner server. Full compose stack. |
+| [dotfiles](https://github.com/spy4x/dotfiles) ![](https://img.shields.io/github/stars/spy4x/dotfiles?style=flat-square) | Fedora workstation + server config. KDE, Zsh, DevOps tooling. |
 
-<div align="right"><a href="https://github.com/spy4x?tab=repositories">All repos →</a></div>
+[All repos →](https://github.com/spy4x?tab=repositories)
 
 ---
 
-## `// latest videos`
+## `// latest`
 
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://youtu.be/SYGpufDLvQs">
-<img src="https://img.youtube.com/vi/SYGpufDLvQs/mqdefault.jpg" width="240" /><br>
-<sub><b>Building a chatbot with OpenAI API & custom integrations</b></sub>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://youtu.be/9qzlQZH1V2E">
-<img src="https://img.youtube.com/vi/9qzlQZH1V2E/mqdefault.jpg" width="240" /><br>
-<sub><b>I think I've finally found a decent VSCode Database Client</b></sub>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://youtu.be/q7DFYPXlh50">
-<img src="https://img.youtube.com/vi/q7DFYPXlh50/mqdefault.jpg" width="240" /><br>
-<sub><b>Copilot Chat — Any good?</b></sub>
-</a>
-</td>
-</tr>
-</table>
+**YouTube:** Architecture deep-dives and startup engineering from a Fractional CTO.
 
-<div align="right"><a href="https://www.youtube.com/@anton-shubin">All videos →</a></div>
+[![Building a chatbot with OpenAI API & custom integrations](https://img.youtube.com/vi/SYGpufDLvQs/mqdefault.jpg)](https://youtu.be/SYGpufDLvQs)
+[![I think I've finally found a decent VSCode Database Client](https://img.youtube.com/vi/9qzlQZH1V2E/mqdefault.jpg)](https://youtu.be/9qzlQZH1V2E)
+[![Copilot Chat — Any good?](https://img.youtube.com/vi/q7DFYPXlh50/mqdefault.jpg)](https://youtu.be/q7DFYPXlh50)
 
----
+[All videos →](https://www.youtube.com/@anton-shubin)
 
-## `// latest posts`
+**Blog:** SaaS architecture, production patterns, lessons from 80+ shipped projects.
 
 <!-- BLOG:START -->
 - [#6 How ChatGPT Can Help You Design System Architecture](https://antonshubin.com/blog/how-chatgpt-can-help-you-design-system-architecture)
@@ -180,29 +127,40 @@ Full-stack TypeScript starter: Angular, NestJS, PostgreSQL, Docker. Opinionated 
 - [#3 Dev Tricks: The Importance of Code Formatting with Prettier](https://antonshubin.com/blog/the-importance-of-code-formatting-with-prettier)
 <!-- BLOG:END -->
 
-<div align="right"><a href="https://antonshubin.com/blog">All posts →</a></div>
+[All posts →](https://antonshubin.com/blog)
 
 ---
 
-## `// hire me`
+## `// stack`
 
-I take full technical ownership — architecture, delivery, and production. You focus on the business.
+**Runtime & Frameworks:** Deno · TypeScript · Hono · Preact · Fresh
 
-**Ideal engagement:**
+**Infrastructure:** Hetzner · Traefik · Docker Compose · Podman · PostgreSQL · Valkey · Grafana
 
-- Clear, well-defined technical scope
-- High technical actuality — greenfield or modernisation preferred
-- Long-term, high-value over short-burst sprints
-- Respect for engineering decisions and technical autonomy
-- Founders/teams who understand software is an investment
+**Mobile & Desktop:** PWA-first · Capacitor · Electron
 
-| Platform | Link |
+**Workflow:** OpenCode · GitHub Copilot · Fedora Linux
+
+**Principles:** Deno-first · CQRS · REST+WS (push only where needed) · Money as integers · Enums start at 1 · Minimal deps · Self-hostable over SaaS lock-in
+
+---
+
+## `// get in touch`
+
+Prefer fixed-price milestones, async execution, and a partner who owns the outcome?
+
+| Channel | Link |
 |---|---|
-| 📧 Email (direct) | [anton@neatsoft.dev](mailto:anton@neatsoft.dev) |
+| 🌐 **Start here** | [antonshubin.com](https://antonshubin.com) |
+| 📅 Schedule a call | [schedule.antonshubin.com](https://schedule.antonshubin.com/spy4x/30min) |
+| 📧 Email | [anton@neatsoft.dev](mailto:anton@neatsoft.dev) |
 | 🔗 LinkedIn | [linkedin.com/in/anton-shubin](https://www.linkedin.com/in/anton-shubin/) |
-| 💼 Upwork | [upwork.com/freelancers/ashubin](https://www.upwork.com/freelancers/ashubin) |
-| 📺 YouTube | [youtube.com/@anton-shubin](https://www.youtube.com/@anton-shubin) |
-| 🌐 Personal Site | [antonshubin.com](https://antonshubin.com) |
 | 🏢 Company | [neatsoft.dev](https://neatsoft.dev) |
 
 ---
+
+<div align="center">
+
+*Expert-Vetted (Top 1%) · $395K+ Earned · 80+ Projects · 100% Job Success · Singapore-incorporated entity*
+
+</div>
