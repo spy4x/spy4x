@@ -10,14 +10,15 @@
 
 15+ years · MSc Computer Science · CEO @ Neatsoft PTE LTD · Singapore · GMT+8
 
-[![antonshubin.com](https://img.shields.io/badge/antonshubin.com-58a6ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
+[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-58a6ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://antonshubin.com)
 
-[![Email](https://img.shields.io/badge/anton@neatsoft.dev-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:anton@neatsoft.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-shubin/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
 [![Schedule a call](https://img.shields.io/badge/Schedule_a_call-22c55e?style=flat-square&logo=googlecalendar&logoColor=white)](https://schedule.antonshubin.com/spy4x/30min)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@anton-shubin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spy4x)
+[![Email](https://img.shields.io/badge/anton@neatsoft.dev-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:anton@neatsoft.dev)
 [![Neatsoft](https://img.shields.io/badge/neatsoft.dev-30363d?style=flat-square&logoColor=white)](https://neatsoft.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/spy4x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-shubin/)
 
 <br>
 
