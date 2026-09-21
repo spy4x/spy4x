@@ -2,7 +2,8 @@
 
 I'm a senior full-stack engineer and tech lead, freelancing since 2013. I build in
 any TypeScript stack plus AI integration and MCP servers — my own stack is Deno,
-Hono, Fresh, Preact, Postgres or SQLite, Docker Compose, Traefik, and Hetzner.
+Hono, Fresh, Preact, Postgres or SQLite, Docker Compose, Traefik, and Hetzner. I'm
+the founder of NeatSoft PTE LTD, Singapore.
 
 ## Open-source tools
 
@@ -19,7 +20,7 @@ Hono, Fresh, Preact, Postgres or SQLite, Docker Compose, Traefik, and Hetzner.
 ## Consulting
 
 I take on fractional CTO work, technical consulting, and hands-on build
-engagements — any TypeScript stack, plus AI integration and MCP servers.
+engagements.
 
 [antonshubin.com](https://antonshubin.com)
 
