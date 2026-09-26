@@ -2,7 +2,9 @@
 
 **Senior full-stack engineer and tech lead.** Freelancing since 2013. I take SaaS
 products from idea to production, in any TypeScript stack, plus AI integration
-and MCP servers. Co-founder and CEO of NeatSoft PTE LTD, Singapore.
+and MCP servers. My own stack: Deno, Hono, Fresh, Preact, Postgres or SQLite,
+Docker Compose, Traefik and Hetzner. Co-founder and CEO of NeatSoft PTE LTD,
+Singapore.
 
 [**Book a call →**](https://meet.antonshubin.com) ·
 [antonshubin.com](https://antonshubin.com) ·
@@ -27,7 +29,8 @@ and MCP servers. Co-founder and CEO of NeatSoft PTE LTD, Singapore.
 | [preact-components](https://github.com/spy4x/preact-components) | Accessible Preact + Tailwind components, with a [live guide](https://spy4x.github.io/preact-components). | [![CI](https://ci.antonshubin.com/api/badges/9/status.svg)](https://ci.antonshubin.com/repos/9) |
 | [template](https://github.com/spy4x/template) | The foundation I build SaaS MVPs on. | — |
 
-[All tools →](https://antonshubin.com/tools)
+[All tools →](https://antonshubin.com/tools) ·
+[All repositories →](https://github.com/spy4x?tab=repositories)
 
 ## Work with me
 
