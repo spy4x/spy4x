@@ -27,7 +27,7 @@ Singapore.
 | --- | --- | --- |
 | [ts-libs](https://github.com/spy4x/ts-libs) | TypeScript libraries on web standards, published to JSR as `@spy4x/*`. | [![CI](https://ci.antonshubin.com/api/badges/10/status.svg)](https://ci.antonshubin.com/repos/10) |
 | [preact-components](https://github.com/spy4x/preact-components) | Accessible Preact + Tailwind components, with a [live guide](https://spy4x.github.io/preact-components). | [![CI](https://ci.antonshubin.com/api/badges/9/status.svg)](https://ci.antonshubin.com/repos/9) |
-| [template](https://github.com/spy4x/template) | The foundation I build SaaS MVPs on. | — |
+| [Seed](https://github.com/spy4x/seed) | The foundation I build SaaS MVPs on ([seedsaas.com](https://seedsaas.com)). | [![CI](https://ci.antonshubin.com/api/badges/15/status.svg)](https://ci.antonshubin.com/repos/15) |
 
 [All tools →](https://antonshubin.com/tools) ·
 [All repositories →](https://github.com/spy4x?tab=repositories)
